@@ -17,7 +17,7 @@ Los pasos para levantar este ejercicio son:
     - Host name/address: postgres
     - Port: 5432
     - Maintenance database: postgres
-    - Username: pgadmin4
+    - Username: postgres
     - Password: Welcome01
 
 6. Crear una nueva base de datos con el nombre `dvdrental`

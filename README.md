@@ -27,3 +27,5 @@ Los pasos para levantar este ejercicio son:
 10. Hacer click en el botón "Restore" y esperar a que termine el proceso
 11. En la parte superior ya puedes ir a Query Tool y ejecutar las consultas
 
+
+
